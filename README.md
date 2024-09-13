@@ -1,6 +1,6 @@
 # Animated Login Page (Arabic)
 
-A simple Login ui
+A simple Login page for web written for Arabic viewers
 
 <img src="./readme/image-big.png"/>
 
